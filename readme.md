@@ -284,7 +284,7 @@ string &operator+(const string& A,const string& B) //cpp
 
 | 左对齐 | 居中  | 右对齐 |
 | :------------ |:---------------:| -----:|
-|\:\-(若干）|:\:\-(若干）\-\:|\-(若干)\:|
+|格式\:\-(若干）|格式\:\-(若干）\-\:|格式\-(若干)\:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
